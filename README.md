@@ -139,3 +139,12 @@ https://deadlinepilot-ai-647029003808.asia-southeast1.run.app
 
 ## Author
 Built as part of Vibe2Ship Hackathon using Google AI Studio
+
+---
+
+## Project Documentation
+
+Detailed project documentation including the problem statement, solution overview, workflow, architecture, AI workflow, innovation, challenges, and future scope is available below.
+
+**Google Documentation:**
+https://docs.google.com/document/d/1gx8tf974AevEbYjdS7t2i8qmwf-hkfq5p4pVdkKM-6U/edit?usp=sharing
