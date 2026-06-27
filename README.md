@@ -76,6 +76,7 @@ It acts as a decision-making layer between tasks and execution.
 ## Architecture
 
 The system follows a simple request-response pipeline where the frontend sends task data to the backend, which processes it using Gemini and returns structured AI insights.
+
 <img width="1419" height="472" alt="VPJDRjim3CVl1lmEH4uTXYI7OTUXMTCK0Rh1IDO7u6GYqIfBhaG5y8Qz--YuNvFbt2poJ_8dal9rOFGS6rCMhDaGh0bheorLsZY6rHRciEy2KmChhuwQIN7qL1PbWOgTXuT0lZzvSQ0zI8RPnZlBP6kusf68u2CyR66DuVZJeQy_pE1FMG0erxJEacMO_S3m25lRHeQDyyqiSLV" src="https://github.com/user-attachments/assets/e3328883-d0cd-46f7-8a47-9cfecb4172df" />
 
 
